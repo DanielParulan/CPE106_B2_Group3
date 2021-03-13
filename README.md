@@ -9,5 +9,6 @@ Group #: 3
 Members:
 
 Parulan, Daniel Louis M.
+Manuel, Seth Ryan S.
 
 This is the repository for Module 1 Group 3 Machine problem
